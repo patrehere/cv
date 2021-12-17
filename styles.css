@@ -1,10 +1,10 @@
 
 hr{
 	
-	border-style: inset none none none;
-	border-width: 2px;
-	border-color: lightgrey;
-	width: 100%;
+	border-style: dotted none none none;
+	border-width: 8px;
+	border-color: #548CA8;
+	width: 10%;
 }
 body{
 	background-color: #EAF6F6;	
@@ -43,6 +43,4 @@ th{
 
 
   
-
-
 	
