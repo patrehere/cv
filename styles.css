@@ -7,7 +7,7 @@ hr{
 	width: 100%;
 }
 body{
-	background-color: white;	
+	background-color: #EAF6F6;	
 
 }
 h1{
@@ -15,6 +15,7 @@ h1{
 }
 h3{
 	color: #548CA8;
+	margin-left: 10px;
 
 }
 
@@ -34,9 +35,11 @@ li{
 }
 
 th{
-	color: #334257;
+	color: #548CA8;
 
 }
+
+
 
 
   
