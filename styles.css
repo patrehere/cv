@@ -1,13 +1,13 @@
 
 hr{
-	
+
 	border-style: dotted none none none;
-	border-width: 6px;
+	border-width: 2px;
 	border-color: #548CA8;
-	width: 5%;
+	width: 100%;
 }
 body{
-	background-color: #EAF6F6;	
+	background-color: white;
 
 }
 h1{
@@ -25,7 +25,7 @@ p{
 }
 
 td{
-	color: #334257;	
+	color: #334257;
 
 }
 
@@ -38,9 +38,3 @@ th{
 	color: #548CA8;
 
 }
-
-
-
-
-  
-	
